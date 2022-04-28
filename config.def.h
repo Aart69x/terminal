@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "DinaTTF :pixelsize=9:antialias=true:autohint=true";
+static char *font = "Dina:pixelsize=9:antialias=true:autohint=true";
 static char *font2[] = { "Dina :pixelsize=20:antialias=true:autohint=true" };
 static int borderpx = 24;
 
